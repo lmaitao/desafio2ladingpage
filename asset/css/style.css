@@ -1,0 +1,29 @@
+
+nav {
+    font-size: 25px;
+    color: rgb(251, 8, 8);
+    text-align: center;
+    border: 10px;
+    margin: auto;
+    padding: 50px;
+    background-image: url(../img/nav.jpg);
+}
+main {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border: 100px;
+    margin: auto;
+    padding: 100px;
+    background-image: url(../img/main.jpg);
+
+}
+footer {
+    font-size: 15px;
+    background-image: url(../img/footer.jpg);
+    text-align: center;
+    border: 10px;
+    margin: auto;
+    padding: 50px;
+    color: rgb(128, 176, 114);
+}
